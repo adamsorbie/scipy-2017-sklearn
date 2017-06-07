@@ -1,4 +1,4 @@
-SciPy 2016 Scikit-learn Tutorial
+SciPy 2017 Scikit-learn Tutorial
 ================================
 
 Based on the SciPy [2015 tutorial](https://github.com/amueller/scipy_2015_sklearn_tutorial) by [Kyle Kastner](https://kastnerkyle.github.io/) and [Andreas Mueller](http://amueller.github.io).
